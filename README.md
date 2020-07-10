@@ -20,4 +20,4 @@ Pursuing Master's in Mathematics and Computing
 
 #### Connect with me
 * [Email](mailto://viveknigam.nigam3@gmail.com)
-* [LinkedIn](https://linkedin.com/viveknigam3003)
+* [LinkedIn](https://linkedin.com/in/viveknigam3003)
