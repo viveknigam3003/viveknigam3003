@@ -19,5 +19,5 @@ Pursuing Master's in Mathematics and Computing
 * [Rucio Notifier](https://github.com/rucio/notifier) 
 
 #### Connect with me
-* [Email](viveknigam.nigam3@gmail.com)
+* [Email](mailto://viveknigam.nigam3@gmail.com)
 * [LinkedIn](https://linkedin.com/viveknigam3003)
