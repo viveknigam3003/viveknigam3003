@@ -8,11 +8,16 @@
 
 ### About me
 I'm a software developer and designer based in India.
+Pursuing Master's in Mathematics and Computing
 
 * **Current Job**: Working as a Google Summer of Code 2020 Student Developer for [Rucio](https://github.com/rucio)
 * **I Speak:** English, Hindi, Python, Javascript, JAVA, C, and C++
 * **Talk to me about:** ReactJS, Full-Stack Software Development, Machine Learning Solutions, UI/UX Design.
-* **Let's bond over:** Philosophy, Human Psychology, Filmmaking, Photography, and English and Hindi Literature.
+* **Let's bond over:** Philosophy, Human Psychology, Filmmaking, Photography, English and Hindi Literature.
 
 #### Current Project(s)
 * [Rucio Notifier](https://github.com/rucio/notifier) 
+
+#### Connect with me
+* [Email](viveknigam.nigam3@gmail.com)
+* [LinkedIn](https://linkedin.com/viveknigam3003)
