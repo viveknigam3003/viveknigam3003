@@ -17,6 +17,7 @@ Pursuing Master's in Mathematics and Computing
 
 #### Current Project(s)
 * [Rucio Notifier](https://github.com/rucio/notifier) 
+* [Rocinante](https://github.com/viveknigam3003/rocinante)
 
 #### Connect with me
 * [Email](mailto://viveknigam.nigam3@gmail.com)
