@@ -10,12 +10,12 @@
 I'm a software developer and designer based in India.
 Pursuing Master's in Mathematics and Computing
 
-* **Current Job**: Working as a Google Summer of Code 2020 Student Developer for [Rucio](https://github.com/rucio)
+* **Recent Job**: Google Summer of Code 2020 Student Developer for [Rucio](https://github.com/rucio) (CERN-HSF)
 * **I Speak:** English, Hindi, Python, Javascript, JAVA, C, and C++
 * **Talk to me about:** ReactJS, Full-Stack Software Development, Machine Learning Solutions, UI/UX Design.
 * **Let's bond over:** Philosophy, Human Psychology, Filmmaking, Photography, English and Hindi Literature.
 
-#### Current Project(s)
+#### Recent Project(s)
 * [Rucio Notifier](https://github.com/rucio/notifier) 
 * [Rucio Desktop](https://github.com/rucio/desktop) (earlier [rocinante](https://github.com/viveknigam3003/rocinante))
 
