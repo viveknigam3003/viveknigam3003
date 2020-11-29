@@ -15,6 +15,9 @@ Pursuing Master's in Mathematics and Computing
 * **Talk to me about:** ReactJS, Full-Stack Software Development, Machine Learning Solutions, UI/UX Design.
 * **Let's bond over:** Philosophy, Human Psychology, Filmmaking, Photography, English and Hindi Literature.
 
+#### Current Project
+[Resuminator](https://github.com/viveknigam3003/resuminator): Build beautiful single-page resumes; without the hassle.
+
 #### Recent Project(s)
 * [Rucio Notifier](https://github.com/rucio/notifier) 
 * [Rucio Desktop](https://github.com/rucio/desktop) (earlier [rocinante](https://github.com/viveknigam3003/rocinante))
