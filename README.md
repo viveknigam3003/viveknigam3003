@@ -6,8 +6,8 @@
   </a>
 </div>
 
-### About me
-I'm a software developer and designer based in India.
+### 👋🏻 About me
+Hi, I'm a software developer and designer based in India.
 Pursuing Master's in Mathematics and Computing
 
 * **Recent Job**: Google Summer of Code 2020 Student Developer for [Rucio](https://github.com/rucio) (CERN-HSF)
@@ -15,13 +15,16 @@ Pursuing Master's in Mathematics and Computing
 * **Talk to me about:** ReactJS, Full-Stack Software Development, Machine Learning Solutions, UI/UX Design.
 * **Let's bond over:** Philosophy, Human Psychology, Filmmaking, Photography, English and Hindi Literature.
 
-#### Current Project
+#### 🚀 Current Project
 [Resuminator](https://github.com/viveknigam3003/resuminator): Build beautiful single-page resumes; without the hassle.
 
-#### Recent Project(s)
+#### 💻 Recent Project(s)
 * [Rucio Notifier](https://github.com/rucio/notifier) 
 * [Rucio Desktop](https://github.com/rucio/desktop) (earlier [rocinante](https://github.com/viveknigam3003/rocinante))
 
-#### Connect with me
-* [Email](mailto://viveknigam.nigam3@gmail.com)
-* [LinkedIn](https://linkedin.com/in/viveknigam3003)
+#### 👀 Where to find me?
+* [Email](mailto://viveknigam.nigam3@gmail.com) - for detailed queries and collaboration requests
+* [LinkedIn](https://linkedin.com/in/viveknigam3003) - to connect one-on-one
+* [Youtube Channel](https://youtube.com/c/viveknigam3003) - For tech and vlogs
+* [Medium Blog](medium.com/@viveknigam3003) - for guides and articles through my experiences
+* [Twitter](https://twitter.com/_viveknigam_) - random witty stuff here and and there
