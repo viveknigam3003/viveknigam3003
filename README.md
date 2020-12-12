@@ -27,4 +27,4 @@ Pursuing Master's in Mathematics and Computing
 * [LinkedIn](https://linkedin.com/in/viveknigam3003) - to connect one-on-one
 * [Youtube Channel](https://youtube.com/c/viveknigam3003) - For tech and vlogs
 * [Medium Blog](medium.com/@viveknigam3003) - for guides and articles through my experiences
-* [Twitter](https://twitter.com/_viveknigam_) - random witty stuff here and and there
+* [Twitter](https://twitter.com/_viveknigam_) - random thoughts lying here and there
