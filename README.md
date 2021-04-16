@@ -10,7 +10,7 @@
 Hi, I'm a full-stack software developer and designer based in India.
 Pursuing Master's in Mathematics and Computing
 
-* **Current Job**: Building [Resuminator](https://github.com/resuminator/resuminator): Build beautiful single-page resumes; without the hassle.
+* **Current Job**: Building [Resuminator](https://github.com/resuminator/resuminator) - *Build beautiful single-page resumes; without the hassle.*
 * **I Speak:** English, Hindi, Python, Javascript, JAVA, C, and C++
 * **Talk to me about:** ReactJS, Full-Stack Software Development, Product Development, UI/UX Design, and Startups.
 * **Let's bond over:** Philosophy, Human Psychology, Filmmaking, Photography, English and Hindi Literature.
