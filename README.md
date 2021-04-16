@@ -7,18 +7,16 @@
 </div>
 
 ### 👋🏻 About me
-Hi, I'm a software developer and designer based in India.
+Hi, I'm a full-stack software developer and designer based in India.
 Pursuing Master's in Mathematics and Computing
 
-* **Recent Job**: Google Summer of Code 2020 Student Developer for [Rucio](https://github.com/rucio) (CERN-HSF)
+* **Current Job**: Building [Resuminator](https://github.com/resuminator/resuminator): Build beautiful single-page resumes; without the hassle.
 * **I Speak:** English, Hindi, Python, Javascript, JAVA, C, and C++
-* **Talk to me about:** ReactJS, Full-Stack Software Development, Machine Learning Solutions, UI/UX Design.
+* **Talk to me about:** ReactJS, Full-Stack Software Development, Product Development, UI/UX Design, and Startups.
 * **Let's bond over:** Philosophy, Human Psychology, Filmmaking, Photography, English and Hindi Literature.
 
-#### 🚀 Current Project
-[Resuminator](https://github.com/viveknigam3003/resuminator): Build beautiful single-page resumes; without the hassle.
-
-#### 💻 Recent Project(s)
+#### 💻 Past Projects & Experience
+* Google Summer of Code 2020 Student Developer for [Rucio](https://github.com/rucio) (CERN-HSF)
 * [Rucio Notifier](https://github.com/rucio/notifier) 
 * [Rucio Desktop](https://github.com/rucio/desktop) (earlier [rocinante](https://github.com/viveknigam3003/rocinante))
 
