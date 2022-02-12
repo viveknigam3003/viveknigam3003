@@ -7,23 +7,29 @@
 </div>
 
 ### 👋🏻 About me
-Hi, I'm a full-stack software developer and designer based in India.
-Pursuing Master's in Mathematics and Computing
+Hi, I'm a full-stack software developer specialized with MERN stack development based in India.
+Final semester student of Master's in Mathematics and Computing
 
-* **Current Job**: Building [Resuminator](https://github.com/resuminator/resuminator) - *Build beautiful single-page resumes; without the hassle.*
+* **Current Job**: Building [Resuminator](https://www.resuminator.in/) and [Rocketium](https://rocketium.com/)
 * **I Speak:** English, Hindi, TypeScript, JavaScript, Python, and JAVA.
 * **Talk to me about:** ReactJS, JS Frameworks, Full-Stack Software Development, Product Development, UI/UX Design, and Startups.
 * **Let's bond over:** Alt/Indie Music, Philosophy, Human Psychology, Filmmaking, Photography, English and Hindi Literature.
 
-#### 💻 Past Projects & Experience
-* Mentor @ Crio Winter of Doing
-* Google Summer of Code 2020 Student Developer for [Rucio](https://github.com/rucio) (CERN-HSF)
-* [Rucio Notifier](https://github.com/rucio/notifier) 
-* [Rucio Desktop](https://github.com/rucio/desktop) (earlier [rocinante](https://github.com/viveknigam3003/rocinante))
+#### 💻 Work Experience
+* Full-Stack MERN Instructor @ Crio.do (Aug 2021 - Feb 2022)
+* JavaScript Content and Delivering Instructor @ Crio.do (June 2021 - July 2021)
+* Mentor @ Crio Winter of Doing (Dec 2020 - March 2021)
+* Google Summer of Code 2020 Student Developer for [Rucio](https://github.com/rucio) (CERN-HSF) (May 2020 - Sep 2020)
+
+#### 🛠️ Relevant Projects
+* [Resuminator](https://github.com/resuminator/resuminator) (Sep 2020 - Present) - A free and open-source powerful single page resume builder.
+* [Shatranj](https://github.com/viveknigam3003/shatranj) (Nov 2020 - Dec 2020) - A Blockchain based Decentralized App (DApp) with custom ERC20 Tokens ($ASHF, Ashrafi)
+* [Rucio Notifier](https://github.com/rucio/notifier) (June 2020) - Cross platform notification utility for Rucio
+* [Rucio Desktop](https://github.com/rucio/desktop) (July 2020 - Aug 2020) - Cross Platform Desktop application to manage and use Rucio
 
 #### 👀 Where to find me?
-* [Email](mailto://viveknigam.nigam3@gmail.com) - for detailed queries and collaboration requests
-* [LinkedIn](https://linkedin.com/in/viveknigam3003) - to connect one-on-one
-* [Youtube Channel](https://youtube.com/c/viveknigam3003) - For tech and vlogs
-* [Medium Blog](medium.com/@viveknigam3003) - for guides and articles through my experiences
-* [Twitter](https://twitter.com/_viveknigam_) - random thoughts lying here and there
+* [Twitter](https://twitter.com/_viveknigam_) - read my learnings in tech, react, ts, and life updates.
+* [LinkedIn](https://linkedin.com/in/viveknigam3003) - to connect one-on-one and career updates.
+* [Email](mailto://viveknigam.nigam3@gmail.com) - for detailed queries, collaboration requests, or opportunities.
+* [Youtube Channel](https://youtube.com/c/viveknigam3003) - For tech and vlogs.
+* [Medium Blog](medium.com/@viveknigam3003) - for guides and articles through my experiences.
