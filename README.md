@@ -15,6 +15,7 @@ Hi, I'm a full-stack software developer specialized with MERN stack development 
 * **Let's bond over:** Alt/Indie Music, Philosophy, Human Psychology, Filmmaking, Photography, English and Hindi Literature.
 
 #### 💻 Work Experience
+* Software Engineer @ Rocketium (Jan 2022 - Present)
 * Full-Stack MERN Instructor @ Crio.do (Aug 2021 - Feb 2022)
 * JavaScript Content and Delivering Instructor @ Crio.do (June 2021 - July 2021)
 * Mentor @ Crio Winter of Doing (Dec 2020 - March 2021)
