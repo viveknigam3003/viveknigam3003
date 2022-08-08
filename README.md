@@ -7,8 +7,7 @@
 </div>
 
 ### 👋🏻 About me
-Hi, I'm a full-stack software developer specialized with MERN stack development based in India.
-Final semester student of Master's in Mathematics and Computing
+Hi, I'm a full-stack software developer specialized with MERN stack development based in India. I've been mentoring industry folks to become product-minded engineers since 2021. I hold a Master's in Mathematics and Computing.
 
 * **Current Job**: Building [Resuminator](https://www.resuminator.in/) and [Rocketium](https://rocketium.com/)
 * **I Speak:** English, Hindi, TypeScript, JavaScript, Python, and JAVA.
