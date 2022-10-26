@@ -28,7 +28,7 @@ Hi, I'm a full-stack software developer specialized with MERN stack development 
 * [Rucio Desktop](https://github.com/rucio/desktop) (July 2020 - Aug 2020) - Cross Platform Desktop application to manage and use Rucio
 
 #### 👀 Where to find me?
-* [Twitter](https://twitter.com/_viveknigam_) - read my learnings in tech, react, ts, and life updates.
+* [Twitter](https://twitter.com/_viveknigam) - read my learnings in tech, react, ts, and life updates.
 * [LinkedIn](https://linkedin.com/in/viveknigam3003) - to connect one-on-one and career updates.
 * [Email](mailto://viveknigam.nigam3@gmail.com) - for detailed queries, collaboration requests, or opportunities.
 * [Youtube Channel](https://youtube.com/c/viveknigam3003) - For tech and vlogs.
