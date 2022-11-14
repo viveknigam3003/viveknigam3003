@@ -2,8 +2,9 @@
 **viveknigam3003/viveknigam3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <div align="center">
   <a href="https://viveknigam.io">
-    <img alt="viveknigam" src="https://user-images.githubusercontent.com/30192068/201462288-88ef84fe-cf5e-4de0-88a1-dbfd674b11fe.png" width=100% />
+    <img alt="viveknigam" src="https://user-images.githubusercontent.com/30192068/201606917-6598c717-1133-4cb1-9337-83d65d8465e0.png" width=100% />
   </a>
+
 </div>
 
 ### 👋🏻 About me
