@@ -1,19 +1,18 @@
 <!--
 **viveknigam3003/viveknigam3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <div align="center">
-  <a href="https://viveknigam.io">
-    <img alt="viveknigam" src="https://user-images.githubusercontent.com/30192068/201606917-6598c717-1133-4cb1-9337-83d65d8465e0.png" width=100% />
+  <a>
+    <img src="https://github.com/viveknigam3003/viveknigam3003/assets/30192068/21a33243-adf0-42cf-bba8-14a1ad431b21" alt="viveknigam.io" />
   </a>
-
 </div>
 
 ### 👋🏻 About me
-Hi, I'm a full-stack software developer specialized with MERN stack development based in India. I hold a Master's in Mathematics and Computing. You can read my blogs at [viveknigam.io](https://viveknigam.io).
+Hi! I'm a Senior software engineer @ [Rocketium](https://rocketium.com/), building design tools for the web. Full-stack dev with a sense of design & product. Currently I'm building a canvas-based design-editor for the web.
 
-* **Current Job**: Building [Resuminator](https://www.resuminator.in/) and [Rocketium](https://rocketium.com/)
-* **I Speak:** English, Hindi, TypeScript, JavaScript, Python, and JAVA.
+* **I Speak:** English, Hindi, TypeScript, JavaScript, and Python.
 * **Talk to me about:** ReactJS, JS Frameworks, Full-Stack Software Development, Product Development, UI/UX Design, and Startups.
 * **Let's bond over:** Alt/Indie Music, Philosophy, Human Psychology, Filmmaking, Photography, English and Hindi Literature.
+* **More about my work:** [Vivek's Resume](https://viveknigam.io/resume)
 
 #### 💻 Work Experience
 * Software Engineer @ Rocketium (Jan 2022 - Present)
@@ -23,14 +22,11 @@ Hi, I'm a full-stack software developer specialized with MERN stack development 
 * Google Summer of Code 2020 Student Developer for [Rucio](https://github.com/rucio) (CERN-HSF) (May 2020 - Sep 2020)
 
 #### 🛠️ Relevant Projects
-* [Resuminator](https://github.com/resuminator/resuminator) (Sep 2020 - Present) - A free and open-source powerful single page resume builder.
-* [Shatranj](https://github.com/viveknigam3003/shatranj) (Nov 2020 - Dec 2020) - A Blockchain based Decentralized App (DApp) with custom ERC20 Tokens ($ASHF, Ashrafi)
-* [Rucio Notifier](https://github.com/rucio/notifier) (June 2020) - Cross platform notification utility for Rucio
-* [Rucio Desktop](https://github.com/rucio/desktop) (July 2020 - Aug 2020) - Cross Platform Desktop application to manage and use Rucio
+* [Phoenix Editor](https://github.com/viveknigam3003/canvas-editor) (Nov 2023 - Feb 2024) - A Figma-type design editor prototype.
+* [Quickdocs](https://github.com/viveknigam3003/quickdocs) (Mar 2024) - A CLI based documentation website generator for TypeScript/JavaScript projects.
+* [Resuminator](https://github.com/resuminator/resuminator) (Sep 2020 - Sep 2023) - A free and open-source powerful single page resume builder.
 
 #### 👀 Where to find me?
-* [Twitter](https://twitter.com/_viveknigam) - read my learnings in tech, react, ts, and life updates.
-* [LinkedIn](https://linkedin.com/in/viveknigam3003) - to connect one-on-one and career updates.
+* [Twitter](https://twitter.com/_viveknigam) - I'm most active here in DMs and sharing my product development knowledge
 * [Email](mailto://viveknigam.nigam3@gmail.com) - for detailed queries, collaboration requests, or opportunities.
-* [Youtube Channel](https://youtube.com/c/viveknigam3003) - For tech and vlogs.
-* [Medium Blog](medium.com/@viveknigam3003) - for guides and articles through my experiences.
+* [Personal Blog](https://viveknigam.io/blog) - Mostly tech blogs here
