@@ -7,7 +7,7 @@
 </div>
 
 ### 👋🏻 About me
-Hi! I'm a Senior software engineer @ [Rocketium](https://rocketium.com/), building design tools for the web. Full-stack dev with a sense of design & product. Currently I'm building a canvas-based design-editor for the web.
+Full-stack dev with a sense of design & product. 
 
 * **I Speak:** English, Hindi, TypeScript, JavaScript, and Python.
 * **Talk to me about:** ReactJS, JS Frameworks, Full-Stack Software Development, Product Development, UI/UX Design, and Startups.
@@ -15,7 +15,7 @@ Hi! I'm a Senior software engineer @ [Rocketium](https://rocketium.com/), buildi
 * **More about my work:** [Vivek's Resume](https://viveknigam.io/resume)
 
 #### 💻 Work Experience
-* Software Engineer @ Rocketium (Jan 2022 - Present)
+* Software Engineer @ Rocketium (Jan 2022 - Sep 2024)
 * Full-Stack MERN Instructor @ Crio.do (Aug 2021 - Feb 2022)
 * JavaScript Content and Delivering Instructor @ Crio.do (June 2021 - July 2021)
 * Mentor @ Crio Winter of Doing (Dec 2020 - March 2021)
