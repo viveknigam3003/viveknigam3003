@@ -2,12 +2,13 @@
 **viveknigam3003/viveknigam3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <div align="center">
   <a>
-    <img src="https://github.com/viveknigam3003/viveknigam3003/assets/30192068/21a33243-adf0-42cf-bba8-14a1ad431b21" alt="viveknigam.io" />
+    <img src="https://github.com/user-attachments/assets/5888f5b6-4e4e-41ea-8978-e6ecb9ffa47c" alt="viveknigam.io" />
   </a>
 </div>
 
+
 ### 👋🏻 About me
-Full-stack dev with a sense of design & product. 
+Building Postbot AI at Postman. Full-stack dev with a sense of design & product. 
 
 * **I Speak:** English, Hindi, TypeScript, JavaScript, and Python.
 * **Talk to me about:** ReactJS, JS Frameworks, Full-Stack Software Development, Product Development, UI/UX Design, and Startups.
@@ -15,7 +16,8 @@ Full-stack dev with a sense of design & product.
 * **More about my work:** [Vivek's Resume](https://viveknigam.io/resume)
 
 #### 💻 Work Experience
-* Software Engineer @ Rocketium (Jan 2022 - Sep 2024)
+* Software Engineer @ Postman (Oct 2024 - Present)
+* Sr. Software Engineer @ Rocketium (Jan 2022 - Sep 2024)
 * Full-Stack MERN Instructor @ Crio.do (Aug 2021 - Feb 2022)
 * JavaScript Content and Delivering Instructor @ Crio.do (June 2021 - July 2021)
 * Mentor @ Crio Winter of Doing (Dec 2020 - March 2021)
